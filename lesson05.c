@@ -11,6 +11,7 @@ Output: i
         got
         it
 */
+
 int main (  int argc, 
             char *argv[]) {
     int n;
